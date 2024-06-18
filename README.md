@@ -1,5 +1,5 @@
 # RoundWaita
-Hatter + RoundWaita for a GNOME icon theme, with round corners !
+Hatter + MoreWaita for a GNOME icon theme, with round corners !
 
 **NB**: This theme requires Adwaita in order to work.
 
